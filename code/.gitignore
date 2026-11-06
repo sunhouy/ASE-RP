@@ -1,0 +1,11 @@
+/data/
+/checkpoints/
+/logs/
+__pycache__/
+*.py[cod]
+*.pt
+*.pth
+*.csv
+*.json
+*.tmp
+.venv/
