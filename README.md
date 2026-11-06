@@ -3,7 +3,6 @@
 Adaptive Semantic Enhancement with Rank-Preserving Projection for next-POI recommendation.
 
 ```bash
-cd code
 python -m pip install -r requirements.txt
 python run.py --lr 1e-3 --save_model checkpoints/base.pt
 python semantic_teacher.py
